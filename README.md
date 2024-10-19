@@ -1,6 +1,6 @@
 # Hi there, I'm Ujjwal Raj 👋
 
-🔭 I’m currently working on [Multiscale Modeling of Materials using Machine Learning]()
+🔭 I’m currently working on Multiscale Modeling of Materials using Machine Learning
 🌱 I’m currently learning Machine Learning
 👯 I’m looking to collaborate on Data Science and Machine Learning projects
 💬 Ask me about Machine Learning, Data Science.
@@ -16,13 +16,4 @@
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
-
-## 📈 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalraj&show_icons=true&theme=dark)
-
-## 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalraj&layout=compact&theme=dark)
-
-## 🔥 Contributions:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalraj&theme=dark)
 
