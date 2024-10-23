@@ -18,3 +18,12 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beingujjwalraj&show_icons=true&locale=en&layout=compact" alt="beingujjwalraj" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beingujjwalraj&show_icons=true&locale=en" alt="beingujjwalraj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beingujjwalraj&" alt="beingujjwalraj" /></p>
+
+
+
