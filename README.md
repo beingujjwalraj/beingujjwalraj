@@ -1,4 +1,5 @@
 # Hi there, I'm Ujjwal Raj 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=beingujjwalraj&label=Profile%20views&color=0e75b6&style=flat" alt="beingujjwalraj" /> </p>
 
 🔭 I’m currently working on Multiscale Modeling of Materials using Machine Learning
 🌱 I’m currently learning Machine Learning
