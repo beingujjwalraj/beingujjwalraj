@@ -1,19 +1,26 @@
-# Hi there, I'm Ujjwal Raj 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beingujjwalraj&label=Profile%20views&color=0e75b6&style=flat" alt="beingujjwalraj" /> </p>
+<h1 align="center">Hi 👋, I'm Ujjwal Raj</h1>
+<h3 align="center">A passionate Data Scientist and Machine Learning Enthusiast from India</h3>
+
+
+<h4 align="center">Feel free to connect with me here:</h4>
+
+
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-181825?style=for-the-badge&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/beingujjwalraj/)]([https://www.linkedin.com/in/chanakya-chowdary-vasantha-081a00222](https://www.linkedin.com/in/beingujjwalraj/))
+[![Gmail Badge](https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:ujjwalrajbgis@gmail.com)](mailto:ujjwalrajbgis@gmail.com)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=beingujjwalraj&label=Profile%20views&color=0e75b6&style=flat" alt="beingujjwalraj" /> </p>
 
 🔭 I’m currently working on Multiscale Modeling of Materials using Machine Learning
 🌱 I’m currently learning Machine Learning
 👯 I’m looking to collaborate on Data Science and Machine Learning projects
 💬 Ask me about Machine Learning, Data Science.
-📫 How to reach me: [Email](mailto:ujjwalrajbgis@gmail.com)
 
 ## 🛠️ Technology Stack:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
