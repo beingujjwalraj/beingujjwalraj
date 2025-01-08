@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-181825?style=for-the-badge&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/beingujjwalraj/)]([https://www.linkedin.com/in/chanakya-chowdary-vasantha-081a00222](https://www.linkedin.com/in/beingujjwalraj/))
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-181825?style=for-the-badge&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/beingujjwalraj/)]((https://www.linkedin.com/in/beingujjwalraj/))
 [![Gmail Badge](https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:ujjwalrajbgis@gmail.com)](mailto:ujjwalrajbgis@gmail.com)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=beingujjwalraj&label=Profile%20views&color=0e75b6&style=flat" alt="beingujjwalraj" /> </p>
 
