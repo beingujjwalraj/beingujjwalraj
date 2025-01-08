@@ -7,7 +7,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/beingujjwalraj/) [![Gmail Badge](https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:ujjwalrajbgis@gmail.com)](mailto:ujjwalrajbgis@gmail.com)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/beingujjwalraj/)-->
+[![Gmail Badge](https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:ujjwalrajbgis@gmail.com)](mailto:ujjwalrajbgis@gmail.com)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=beingujjwalraj&label=Profile%20views&color=0e75b6&style=flat" alt="beingujjwalraj" /> </p>
 
 🚀 Currently Working On AI-Driven Torque Distribution System for Enhanced Electric Vehicle Performance.
