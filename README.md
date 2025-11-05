@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Raj</h1>
-<h3 align="center">A full stack AI Engineer from India from India.</h3>
+<h3 align="center">A full stack AI Engineer from India.</h3>
 
 
 <h4 align="center">Feel free to connect with me here:</h4>
