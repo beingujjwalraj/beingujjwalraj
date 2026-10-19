@@ -1,88 +1,185 @@
+<!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-# Hi 👋, I'm Ujjwal Raj
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f766e,100:00F5D4&height=200&section=header&text=Ujjwal%20Raj&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Quantitative%20Developer%20%26amp%3B%20AI%20Full-Stack%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Ujjwal Raj" />
 
-### Quantitative Developer & AI Full-Stack Engineer
+<br/>
 
 <p>
-  <a href="https://beingujjwalraj.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-18d26e?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://beingujjwalraj.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/beingujjwalraj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ujjwalrajbgis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://x.com/beingujjwalraj"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 <p>
-  <img src="https://hits.sh/github.com/beingujjwalraj.svg?style=flat-square&color=18d26e&label=Profile%20Views" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/beingujjwalraj.svg?style=flat-square&label=Profile%20Views&labelColor=161b22&color=0f766e" alt="Profile Views" />
 </p>
 
----
+</div>
 
-### ⚡ About Me
+<!-- ═══════════ ABOUT ═══════════ -->
+<h2 align="center">⚡ About Me</h2>
 
-I am a **Quantitative Developer** at **GemsCap Global Analyst Pvt. Ltd.** and an alumnus of **IIITDM Kancheepuram**.
+<div align="center">
 
-My work centers on building low-latency market data ingestion engines over the **FIX Protocol (CME)**, designing statistical arbitrage models, and architecting production-grade **AI & distributed microservices**.
-
+I am a **Quantitative Developer** at **GemsCap Global Analyst Pvt. Ltd.** and an alumnus of **IIITDM Kancheepuram**.<br/><br/>
+My work centers on building low-latency market data ingestion engines over the **FIX Protocol (CME)**,<br/>
+designing statistical arbitrage models, and architecting production-grade **AI & distributed microservices**.<br/><br/>
 Explore my interactive systems, backtests, and live builds at **[beingujjwalraj.netlify.app](https://beingujjwalraj.netlify.app/)**.
 
----
+</div>
 
-### 💻 Tech Stack
+<br/>
 
-<p><strong>📈 Quantitative Finance & Core Systems</strong></p>
+<!-- ═══════════ SKILLS ═══════════ -->
+<h2 align="center">💻 Skills</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="190"><b>Programming<br/>Languages</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+      <img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=5B9BD5" alt="C++" />
+      <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web<br/>Development</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=2965F1" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=4A9FE0" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+      <img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=00C7A8" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Flask-161b22?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/Django-161b22?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django" />
+      <img src="https://img.shields.io/badge/Spring-161b22?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring" />
+      <img src="https://img.shields.io/badge/GraphQL-161b22?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Machine<br/>Learning &amp; AI</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/PyTorch-161b22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow-161b22?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/scikit--learn-161b22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/OpenCV-161b22?style=for-the-badge&logo=opencv&logoColor=7B61FF" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/NumPy-161b22?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Pandas-161b22?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas" />
+      <img src="https://img.shields.io/badge/SciPy-161b22?style=for-the-badge&logo=scipy&logoColor=8CAAE6" alt="SciPy" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=6BA3D6" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=5D9CCB" alt="MySQL" />
+      <img src="https://img.shields.io/badge/SQLite-161b22?style=for-the-badge&logo=sqlite&logoColor=4FA8DC" alt="SQLite" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cache &amp;<br/>Streaming</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Redis-161b22?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" />
+      <img src="https://img.shields.io/badge/Apache_Kafka-161b22?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Developer Tools<br/>&amp; Infrastructure</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/VS_Code-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=3AA0EA" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-161b22?style=for-the-badge&logo=kubernetes&logoColor=5A8DF0" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/Grafana-161b22?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Grafana" />
+      <img src="https://img.shields.io/badge/Prometheus-161b22?style=for-the-badge&logo=prometheus&logoColor=E6522C" alt="Prometheus" />
+      <img src="https://img.shields.io/badge/Postman-161b22?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+      <img src="https://img.shields.io/badge/Jira-161b22?style=for-the-badge&logo=jira&logoColor=2684FF" alt="Jira" />
+      <img src="https://img.shields.io/badge/Confluence-161b22?style=for-the-badge&logo=confluence&logoColor=2684FF" alt="Confluence" />
+      <img src="https://img.shields.io/badge/Bitbucket-161b22?style=for-the-badge&logo=bitbucket&logoColor=2684FF" alt="Bitbucket" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Other Skills</b></td>
+    <td align="left">
+      <code>Quantitative Finance &amp; Modeling</code>
+      <code>Statistical Arbitrage &amp; Algorithmic Trading</code>
+      <code>Time-Series Analysis &amp; Volatility Modeling</code>
+      <code>Data Structures &amp; Algorithms</code>
+      <code>Object Oriented Programming (OOP)</code>
+      <code>Database Management Systems (DBMS)</code>
+      <code>Operating Systems &amp; Concurrency</code>
+      <code>Distributed Microservices Architecture</code>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ═══════════ TELEMETRY ═══════════ -->
+<h2 align="center">📊 GitHub Telemetry</h2>
+
+<div align="center">
+
 <p>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SciPy-0054A6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
-</p>
-
-<p><strong>⚡ Distributed Infrastructure & Backend</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-<p><strong>🤖 AI, Deep Learning & LLM Systems</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-</p>
-
-<p><strong>🌐 Web Architecture & Cloud</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 📊 Quant Terminal Activity & Metrics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=beingujjwalraj&show_icons=true&bg_color=0d1117&border_color=18d26e&title_color=18d26e&icon_color=18d26e&text_color=c9d1d9" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beingujjwalraj&show_icons=true&include_all_commits=true&bg_color=0d1117&border_color=00F5D4&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9&ring_color=00F5D4" height="180" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingujjwalraj&background=0d1117&border=18d26e&stroke=18d26e&ring=18d26e&fire=18d26e&currStreakNum=18d26e&sideNums=18d26e&currStreakLabel=18d26e&sideLabels=c9d1d9&dates=8b949e" height="180" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=beingujjwalraj&background=0d1117&border=00F5D4&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakNum=00F5D4&sideNums=00F5D4&currStreakLabel=00F5D4&sideLabels=c9d1d9&dates=8b949e" height="180" alt="Streak Stats" />
 </p>
+
+</div>
+
+<br/>
+
+<!-- ═══════════ COLLABORATE ═══════════ -->
+<h2 align="center">🤝 Let's Build Together</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <br/>
+      <h3>Good engineering gets better when people build together.</h3>
+      Open to collaborating on<br/><br/>
+      <code>Open-Source Projects</code>
+      <code>Quantitative Finance Tools</code>
+      <code>Developer Infrastructure</code>
+      <code>Software Engineering</code>
+      <br/><br/>
+      Have an idea worth building, a problem worth solving,<br/>
+      or a project where our skills could complement each other?<br/><br/>
+      <b>Let's connect.</b>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingujjwalraj&layout=compact&bg_color=0d1117&border_color=18d26e&title_color=18d26e&text_color=c9d1d9" height="165" alt="Top Languages" />
+  <a href="mailto:ujjwalrajbgis@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello" /></a>
+  <a href="https://linkedin.com/in/beingujjwalraj"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 </p>
 
----
+</div>
+
+<!-- ═══════════ FOOTER ═══════════ -->
+<div align="center">
+
+<br/>
 
 <sub>&copy; 2026 Ujjwal Raj &bull; <a href="https://beingujjwalraj.netlify.app/">Portfolio</a> &bull; <a href="https://linkedin.com/in/beingujjwalraj">LinkedIn</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:0f766e,100:0d1117&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
