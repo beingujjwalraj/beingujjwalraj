@@ -1,7 +1,7 @@
 <!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f766e,100:00F5D4&height=200&section=header&text=Ujjwal%20Raj&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Quantitative%20Developer%20%26amp%3B%20AI%20Full-Stack%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Ujjwal Raj" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f766e,100:00F5D4&height=200&section=header&text=Ujjwal%20Raj&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Quantitative%20Developer%20%26amp%3B%20%20Software%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Ujjwal Raj" />
 
 <br/>
 
@@ -19,14 +19,11 @@
 </div>
 
 <!-- ═══════════ ABOUT ═══════════ -->
-<h2 align="center">⚡ About Me</h2>
+<h2 align="center">About Me</h2>
 
 <div align="center">
 
-I am a **Quantitative Developer** at **GemsCap Global Analyst Pvt. Ltd.** and an alumnus of **IIITDM Kancheepuram**.<br/><br/>
-My work centers on building low-latency market data ingestion engines over the **FIX Protocol (CME)**,<br/>
-designing statistical arbitrage models, and architecting production-grade **AI & distributed microservices**.<br/><br/>
-Explore my interactive systems, backtests, and live builds at **[beingujjwalraj.netlify.app](https://beingujjwalraj.netlify.app/)**.
+Passionate Quantitative Developer and Software Engineer with expertise in Python, backend development, quantitative finance, and AI/ML. I specialize in building scalable applications, algorithmic trading systems, and data-driven solutions that solve complex real-world problems. Driven by curiosity and continuous learning, I enjoy exploring emerging technologies and transforming innovative ideas into reliable, high-performance software. Open to freelance opportunities and exciting collaborations that challenge me to build impactful solutions.
 
 </div>
 
@@ -111,13 +108,13 @@ Explore my interactive systems, backtests, and live builds at **[beingujjwalraj.
   <tr>
     <td align="center"><b>Other Skills</b></td>
     <td align="left">
-      <code>Quantitative Finance &amp; Modeling</code>
-      <code>Statistical Arbitrage &amp; Algorithmic Trading</code>
-      <code>Time-Series Analysis &amp; Volatility Modeling</code>
-      <code>Data Structures &amp; Algorithms</code>
-      <code>Object Oriented Programming (OOP)</code>
-      <code>Database Management Systems (DBMS)</code>
-      <code>Operating Systems &amp; Concurrency</code>
+      <code>Quantitative Finance &amp; Modeling</code>,
+      <code>Statistical Arbitrage &amp; Algorithmic Trading</code>,
+      <code>Time-Series Analysis &amp; Volatility Modeling</code>,
+      <code>Data Structures &amp; Algorithms</code>,
+      <code>Object Oriented Programming (OOP)</code>,
+      <code>Database Management Systems (DBMS)</code>,
+      <code>Operating Systems &amp; Concurrency</code>,
       <code>Distributed Microservices Architecture</code>
     </td>
   </tr>
@@ -126,22 +123,6 @@ Explore my interactive systems, backtests, and live builds at **[beingujjwalraj.
 </div>
 
 <br/>
-
-<!-- ═══════════ TELEMETRY ═══════════ -->
-<h2 align="center">📊 GitHub Telemetry</h2>
-
-<div align="center">
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=beingujjwalraj&show_icons=true&include_all_commits=true&bg_color=0d1117&border_color=00F5D4&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9&ring_color=00F5D4" height="180" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=beingujjwalraj&background=0d1117&border=00F5D4&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakNum=00F5D4&sideNums=00F5D4&currStreakLabel=00F5D4&sideLabels=c9d1d9&dates=8b949e" height="180" alt="Streak Stats" />
-</p>
-
-</div>
-
-<br/>
-
 <!-- ═══════════ COLLABORATE ═══════════ -->
 <h2 align="center">🤝 Let's Build Together</h2>
 
